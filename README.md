@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm UpendraDeZoysa</h1>
 <h3 align="center">AI and Computer Vision Engineer</h3>
 
-- 🌱 I’m currently learning **Web Development**
-
 - 📝 I regularly write articles on [https://medium.com/@upendradezoysa](https://medium.com/@upendradezoysa)
 
 - 📫 How to reach me **upendradezoysa@gmail.com**
